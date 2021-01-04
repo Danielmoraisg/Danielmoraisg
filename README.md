@@ -8,7 +8,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem-olive-six.vercel.app/api/spotify)](https://open.spotify.com/user/maxious123)
+[![Spotify](https://novatorem.danielmoraisg.vercel.app/api/spotify)](https://open.spotify.com/user/maxious123)
 
 ### Connect with me:
 
