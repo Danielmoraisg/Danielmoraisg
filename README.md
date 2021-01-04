@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate with anyone passionate with its projects 
 - ⚡ Fun fact: I love playing videogames
 
-### Spotify Playing 🎧
+### My playlist on Spotify 🎧
 
 [![Spotify](https://novatorem.danielmoraisg.vercel.app/api/spotify)](https://open.spotify.com/user/maxious123)
 
