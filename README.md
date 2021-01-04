@@ -3,7 +3,7 @@
 ## I'm a Biotechnologist, Machine learning enthusiast & self taught programmer!!
 
 - 🌱 I’m always learning new skills 🤣
-- 👯 I’m looking to collaborate with anyone passionate with its projects 
+- 👯 I’m looking to collaborate with anyone passionate with their projects 
 - ⚡ Fun fact: I love playing videogames
 
 ### My playlist on Spotify 🎧
