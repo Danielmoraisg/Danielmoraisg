@@ -26,9 +26,8 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][Git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
-[<img align="left" alt="Sublimetext" width="26px" src="https://www.sublimetext.com/images/logo.svg" />][Sublimetext]
 [<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />][R]
-[<img align="left" alt="Rstudio" width="26px" src="https://d33wubrfki0l68.cloudfront.net/62bcc8535a06077094ca3c29c383e37ad7334311/a263f/assets/img/logo.svg" />][Rstudio]
+[<img align="left" alt="Rstudio" width="52px" src="https://d33wubrfki0l68.cloudfront.net/62bcc8535a06077094ca3c29c383e37ad7334311/a263f/assets/img/logo.svg" />][Rstudio]
 
 
 <br />
@@ -42,7 +41,6 @@
 [Github]: https://github.com
 [Terminal]: https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701#activetab=pivot:overviewtab
 [Jupyter]: https://jupyter.org
-[Sublimetext]: https://www.sublimetext.com
 [R]: https://www.r-project.org
 [Rstudio]: https://rstudio.com
 [Collab]: https://colab.research.google.com/notebooks/intro.ipynb
