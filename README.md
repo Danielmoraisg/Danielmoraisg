@@ -7,7 +7,9 @@
 - ⚡ Fun fact: I love playing videogames
 
 ### My playlist on Spotify 🎧
-#### I'm listening to
+
+#### I'm listening to:
+
 [![Spotify](https://novatorem.danielmoraisg.vercel.app/api/spotify)](https://open.spotify.com/user/maxious123)
 
 ### Connect with me:
