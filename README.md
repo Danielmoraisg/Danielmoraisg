@@ -30,6 +30,7 @@
 [<img align="left" alt="Docker" width="32px" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" />][Docker]
 [<img align="left" alt="Docker" width="26px" src="https://www.ruby-lang.org/images/header-ruby-logo.png" />][Ruby]
 [<img align="left" alt="Docker" width="54px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/617px-Ruby_On_Rails_Logo.svg.png?20170116014735" />][Rails]
+[<img align="left" alt="Docker" width="26px" src="https://wiki.postgresql.org/images/thumb/a/a4/PostgreSQL_logo.3colors.svg/116px-PostgreSQL_logo.3colors.svg.png" />][Postgresql]
 
 <br />
 <br />
@@ -45,4 +46,5 @@
 [Docker]: https://www.docker.com
 [Ruby]:https://www.ruby-lang.org/pt/
 [Rails]: https://rubyonrails.org
+[Postgresql]: https://www.postgresql.org
 
