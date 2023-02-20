@@ -24,13 +24,12 @@
 
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][Python]
 [<img align="left" alt="Jupyter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />][Jupyter]
-[<img align="left" alt="Collab" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png" />][Collab]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][Git]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
 [<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />][R]
-[<img align="left" alt="Rstudio" width="52px" src="https://d33wubrfki0l68.cloudfront.net/62bcc8535a06077094ca3c29c383e37ad7334311/a263f/assets/img/logo.svg" />][Rstudio]
-
+[<img align="left" alt="Docker" width="32px" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" />][Docker]
+[<img align="left" alt="Docker" width="26px" src="https://www.ruby-lang.org/images/header-ruby-logo.png" />][Ruby]
+[<img align="left" alt="Docker" width="54px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/617px-Ruby_On_Rails_Logo.svg.png?20170116014735" />][Rails]
 
 <br />
 <br />
@@ -40,9 +39,10 @@
 [linkedin]: https://www.linkedin.com/in/daniel-morais-8826b8150/
 [Python]: https://www.python.org
 [Git]: https://git-scm.com
-[Github]: https://github.com
 [Terminal]: https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701#activetab=pivot:overviewtab
 [Jupyter]: https://jupyter.org
 [R]: https://www.r-project.org
-[Rstudio]: https://rstudio.com
-[Collab]: https://colab.research.google.com/notebooks/intro.ipynb
+[Docker]: https://www.docker.com
+[Ruby]:https://www.ruby-lang.org/pt/
+[Rails]: https://rubyonrails.org
+
