@@ -1,10 +1,10 @@
 ### Hi there, I'm Daniel 👋
 
-## I'm a Biotechnologist, Machine learning enthusiast & self taught programmer!!
+## I'm a developer, Machine learning enthusiast & self taught programmer!!
 
 - 🌱 I’m always learning new skills 🤣
 - 👯 I’m looking to collaborate with anyone passionate with their projects 
-- ⚡ Fun fact: I love playing videogames
+- ⚡ Fun fact: I love playing videogames and I graduated at biotechnology
 
 ### My playlist on Spotify 🎧
 
